@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KabaevRoman
 - 👀 I’m interested in Desktop development/mobile development
-- 🌱 I’m currently learning c++/qt/java
+- 🌱 I’m currently learning c++/qt/java/golang
 - 📫 How to reach me romakabaev2222@gmail.com
 
 <!---
